@@ -42,8 +42,8 @@ workflow BasicJointGenotyping {
     File ref_fasta_index
     File ref_dict
 
-    String gatk_path = "/gatk/gatk"
-    String gatk_docker = "broadinstitute/gatk:4.1.8.1"
+    String gatk_path = "/home/hanjinu/gatk-4.5.0.0"
+    String gatk_docker = "broadinstitute/gatk:latest"
   }
 
   scatter (input_gvcf in input_gvcfs) {
