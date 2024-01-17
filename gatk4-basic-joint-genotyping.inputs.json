@@ -1,8 +1,8 @@
 {
   "BasicJointGenotyping.input_gvcfs": [
-    "gs://genomics-in-the-cloud/v1/data/germline/gvcfs/mother.g.vcf.gz",
-    "gs://genomics-in-the-cloud/v1/data/germline/gvcfs/father.g.vcf.gz",
-    "gs://genomics-in-the-cloud/v1/data/germline/gvcfs/son.g.vcf.gz"
+    "/media/hanjinu/pm1725/WGS/URD_SH_003_3/URD_SH_003_3.g.vcf.gz",
+    "/media/hanjinu/pm1725/WGS/URD_SH_003_4/URD_SH_003_4.g.vcf.gz",
+    "/media/hanjinu/pm1725/WGS/URD_SH_003_1/URD_SH_003_1.g.vcf.gz"
   ],
   "BasicJointGenotyping.ref_fasta": "/media/hanjinu/PM883/db/refs/hg38_broad/Homo_sapiens_assembly38.fasta",
   "BasicJointGenotyping.ref_fasta_index": "/media/hanjinu/PM883/db/refs/hg38_broad/Homo_sapiens_assembly38.fasta.fai",
