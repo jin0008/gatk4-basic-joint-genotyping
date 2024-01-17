@@ -4,9 +4,9 @@
     "gs://genomics-in-the-cloud/v1/data/germline/gvcfs/father.g.vcf.gz",
     "gs://genomics-in-the-cloud/v1/data/germline/gvcfs/son.g.vcf.gz"
   ],
-  "BasicJointGenotyping.ref_fasta": "gs://genomics-in-the-cloud/v1/data/germline/ref/ref.fasta",
-  "BasicJointGenotyping.ref_fasta_index": "gs://genomics-in-the-cloud/v1/data/germline/ref/ref.fasta.fai",
-  "BasicJointGenotyping.ref_dict": "gs://genomics-in-the-cloud/v1/data/germline/ref/ref.dict",
-  "BasicJointGenotyping.interval_list": "gs://genomics-in-the-cloud/v1/data/germline/intervals/snippet-intervals-min.list",
+  "BasicJointGenotyping.ref_fasta": "/media/hanjinu/PM883/db/refs/hg38_broad/Homo_sapiens_assembly38.fasta",
+  "BasicJointGenotyping.ref_fasta_index": "/media/hanjinu/PM883/db/refs/hg38_broad/Homo_sapiens_assembly38.fasta.fai",
+  "BasicJointGenotyping.ref_dict": "/media/hanjinu/PM883/db/refs/hg38_broad/Homo_sapiens_assembly38.dict",
+  "BasicJointGenotyping.interval_list": "/media/hanjinu/PM883/db/refs/hg38_broad/wgs_calling_regions.hg38.interval_list",
   "BasicJointGenotyping.callset_name": "FamilyTrio"
 }
